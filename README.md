@@ -1,1 +1,2 @@
-# storgtech-frontend-development-link-
+# storgtech-frontend-development-link
+link: https://storgtech-development.netlify.app/
